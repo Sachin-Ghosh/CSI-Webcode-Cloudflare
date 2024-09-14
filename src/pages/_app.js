@@ -1,6 +1,6 @@
 import "@/styles/globals.css";
-import Nav from "@/components/Nav.js";
-import Footer from "@/components/Footer.js";
+import Nav from "@/components/Nav";
+import Footer from "@/components/Footer";
 import { ThemeProvider } from "@/components/theme-provider.js";
 import SideNavbar from "@/components/Sidebar";
 import { useState, useEffect } from "react";
